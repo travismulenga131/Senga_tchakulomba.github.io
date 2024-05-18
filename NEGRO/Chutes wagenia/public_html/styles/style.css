@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17 mai 2024, 17 mai 2024 17:06:12
+    Author     : KIRONGOZI
+*/nav{
+   padding: 10px;
+   margin: 10%;
+   width: 10;
+}
+logo{
+    padding: 500px;
+    margin: 500%;
+}
+
+body{
+    font-family: 'Arial Narrows';
+    background-color: #0066ff;
+    background-size:contain;
+}
